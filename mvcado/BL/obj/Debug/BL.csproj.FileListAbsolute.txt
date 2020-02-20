@@ -1,0 +1,9 @@
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\BL.dll
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\BL.pdb
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\DAL.dll
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\ET.dll
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\DAL.pdb
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\ET.pdb
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.dll
+C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.pdb
