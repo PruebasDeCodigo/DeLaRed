@@ -7,3 +7,14 @@ C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\bin\Debug\ET.pd
 C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.dll
 C:\Users\lalo\Desktop\TRABAJO\Tutoriales\MVC + ADO.net\mvcado\BL\obj\Debug\BL.pdb
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\BL.dll
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\BL.pdb
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\DAL.dll
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\ET.dll
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\DAL.pdb
+C:\Users\Casa\github\DeLaRed\mvcado\BL\bin\Debug\ET.pdb
+C:\Users\Casa\github\DeLaRed\mvcado\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Casa\github\DeLaRed\mvcado\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\github\DeLaRed\mvcado\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Casa\github\DeLaRed\mvcado\BL\obj\Debug\BL.dll
+C:\Users\Casa\github\DeLaRed\mvcado\BL\obj\Debug\BL.pdb
